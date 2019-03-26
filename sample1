@@ -6,3 +6,4 @@ read name
 echo "How do you do, $name?"
 read remark
 echo "I am $remark too!"
+this is a modification
